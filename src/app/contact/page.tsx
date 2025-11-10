@@ -38,21 +38,21 @@ export default function ContactPage() {
         
         <div className="flex gap-4">
           <a 
-            href="mailto:purvaspatel1241@gmail.com" 
+            href="mailto:roy287485@gmail.com" 
             className="p-3 rounded-full bg-gray-100 hover:bg-gray-200  transition-colors"
             aria-label="Email"
           >
             <Mail className="w-5 h-5" />
           </a>
           <a 
-            href="https://github.com/purvaspatel" 
+            href="https://toolsonline.website" 
             className="p-3 rounded-full bg-gray-100 hover:bg-gray-200  transition-colors"
-            aria-label="GitHub"
+            aria-label="Website"
           >
-            <Github className="w-5 h-5" />
+            <Website className="w-5 h-5" />
           </a>
           <a 
-            href="https://instagram.com/purvvvva" 
+            href="#" 
             className="p-3 rounded-full bg-gray-100 hover:bg-gray-200  transition-colors"
             aria-label="Instagram"
           >
