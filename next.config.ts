@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: 'purvaspatel24.vercel.app',
+        hostname: 'rainews.netlify.app',
       },
     ],
   },
