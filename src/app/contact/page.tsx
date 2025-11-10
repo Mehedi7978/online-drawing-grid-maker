@@ -26,14 +26,14 @@ export default function ContactPage() {
         <div className="relative w-32 h-32 mb-6 rounded-full overflow-hidden border-2 border-gray-200 ">
           <Image
             src="/purvaprofilepic.jpg" // Your photo
-            alt="Purva Patel"
+            alt="Grid maker"
             fill
             className="object-cover"
             
           />
         </div>
         
-        <h2 className="text-xl font-medium text-gray-900 mb-3">Purva Patel</h2>
+        <h2 className="text-xl font-medium text-gray-900 mb-3">Gridmaker</h2>
         
         
         <div className="flex gap-4">
@@ -45,14 +45,14 @@ export default function ContactPage() {
             <Mail className="w-5 h-5" />
           </a>
           <a 
-            href="https://github.com/purvaspatel" 
+            href="#" 
             className="p-3 rounded-full bg-gray-100 hover:bg-gray-200  transition-colors"
             aria-label="GitHub"
           >
             <Github className="w-5 h-5" />
           </a>
           <a 
-            href="https://instagram.com/purvvvva" 
+            href="#" 
             className="p-3 rounded-full bg-gray-100 hover:bg-gray-200  transition-colors"
             aria-label="Instagram"
           >
